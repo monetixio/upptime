@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 706,
-    "timeWeek": 706,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "time": 710,
+    "timeDay": 710,
+    "timeWeek": 710,
+    "timeMonth": 710,
+    "timeYear": 710,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 680,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "time": 683,
+    "timeDay": 683,
+    "timeWeek": 683,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/api.finance-staging.monetix.io",
     "slug": "finance-staging-monetix",
     "status": "up",
-    "uptime": "83.50%",
-    "uptimeDay": "83.50%",
-    "uptimeWeek": "83.50%",
-    "uptimeMonth": "83.50%",
-    "uptimeYear": "83.50%",
-    "time": 693,
-    "timeDay": 693,
-    "timeWeek": 693,
-    "timeMonth": 693,
-    "timeYear": 693,
-    "dailyMinutesDown": {
-      "2021-11-25": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 695,
+    "timeDay": 695,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dastafilez Staging Monetix",
@@ -61,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/api.room-staging.monetix.io",
     "slug": "dastafilez-staging-monetix",
     "status": "up",
-    "uptime": "83.94%",
-    "uptimeDay": "83.94%",
-    "uptimeWeek": "83.94%",
-    "uptimeMonth": "83.94%",
-    "uptimeYear": "83.94%",
-    "time": 720,
-    "timeDay": 720,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
-    "dailyMinutesDown": {
-      "2021-11-25": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {}
   }
 ]
