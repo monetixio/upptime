@@ -4,19 +4,19 @@
     "url": "https://api.finance.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.finance.monetix.io",
     "slug": "finance-monetix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 766,
-    "timeWeek": 637,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 684,
+    "timeDay": 714,
+    "timeWeek": 640,
     "timeMonth": 650,
-    "timeYear": 685,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2022-01-14": 0
+      "2022-01-14": 12
     }
   },
   {
