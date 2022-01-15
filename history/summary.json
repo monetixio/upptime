@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/api.finance.monetix.io",
     "slug": "finance-monetix",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 684,
-    "timeDay": 714,
-    "timeWeek": 640,
-    "timeMonth": 650,
-    "timeYear": 684,
-    "dailyMinutesDown": {
-      "2022-01-14": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 686,
+    "timeDay": 720,
+    "timeWeek": 650,
+    "timeMonth": 651,
+    "timeYear": 686,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dastafilez Monetix",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 749,
-    "timeWeek": 602,
-    "timeMonth": 626,
-    "timeYear": 642,
+    "time": 647,
+    "timeDay": 907,
+    "timeWeek": 643,
+    "timeMonth": 633,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 772,
-    "timeWeek": 621,
+    "time": 665,
+    "timeDay": 748,
+    "timeWeek": 635,
     "timeMonth": 649,
-    "timeYear": 663,
+    "timeYear": 665,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 758,
-    "timeWeek": 602,
-    "timeMonth": 639,
-    "timeYear": 658,
+    "time": 659,
+    "timeDay": 718,
+    "timeWeek": 619,
+    "timeMonth": 640,
+    "timeYear": 659,
     "dailyMinutesDown": {}
   }
 ]
