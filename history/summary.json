@@ -4,19 +4,19 @@
     "url": "https://api.finance.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.finance.monetix.io",
     "slug": "finance-monetix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 724,
-    "timeWeek": 712,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 689,
+    "timeDay": 715,
+    "timeWeek": 710,
     "timeMonth": 656,
-    "timeYear": 690,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2022-01-17": 0
+      "2022-01-17": 19
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/api.finance-staging.monetix.io",
     "slug": "finance-staging-monetix",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 668,
     "timeDay": 768,
     "timeWeek": 700,
     "timeMonth": 651,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2022-01-17": 12
+      "2022-01-17": 31
     }
   },
   {
