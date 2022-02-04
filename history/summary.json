@@ -44,9 +44,9 @@
     "url": "https://api.bitlending.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.bitlending.monetix.io",
     "slug": "bitlending-monetix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 690,
     "timeMonth": 690,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-04": 0
+    }
   },
   {
     "name": "Finance Staging Monetix",
@@ -63,11 +65,11 @@
     "icon": "https://favicons.githubusercontent.com/api.finance-staging.monetix.io",
     "slug": "finance-staging-monetix",
     "status": "down",
-    "uptime": "80.22%",
+    "uptime": "80.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.46%",
+    "uptimeWeek": "58.65%",
     "uptimeMonth": "53.92%",
-    "uptimeYear": "80.22%",
+    "uptimeYear": "80.23%",
     "time": 668,
     "timeDay": 0,
     "timeWeek": 0,
@@ -117,19 +119,19 @@
     "url": "https://api.bitlending-staging.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.bitlending-staging.monetix.io",
     "slug": "bitlending-staging-monetix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 846,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 670,
+    "timeDay": 722,
+    "timeWeek": 670,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 20
     }
   }
 ]
