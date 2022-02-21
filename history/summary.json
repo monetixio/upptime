@@ -22,19 +22,19 @@
     "url": "https://api.room.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.room.monetix.io",
     "slug": "dastafilez-monetix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 488,
-    "timeWeek": 488,
-    "timeMonth": 660,
-    "timeYear": 653,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 650,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 647,
+    "timeYear": 650,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 9
     }
   },
   {
