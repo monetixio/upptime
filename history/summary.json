@@ -94,17 +94,19 @@
     "url": "https://api.bitlending-staging.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.bitlending-staging.monetix.io",
     "slug": "bitlending-staging-monetix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 400,
-    "timeWeek": 486,
-    "timeMonth": 578,
-    "timeYear": 578,
-    "dailyMinutesDown": {}
+    "time": 572,
+    "timeDay": 452,
+    "timeWeek": 488,
+    "timeMonth": 572,
+    "timeYear": 572,
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   }
 ]
