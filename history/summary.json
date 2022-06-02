@@ -61,9 +61,9 @@
     "url": "https://api.finance-staging.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.finance-staging.monetix.io",
     "slug": "finance-staging-monetix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +72,9 @@
     "timeWeek": 573,
     "timeMonth": 530,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "Dastafilez Staging Monetix",
