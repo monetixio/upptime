@@ -61,9 +61,9 @@
     "url": "https://api.finance-staging.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.finance-staging.monetix.io",
     "slug": "finance-staging-monetix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "82.24%",
+    "uptimeDay": "82.23%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.91%",
@@ -73,6 +73,7 @@
     "timeMonth": 536,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2022-06-03": 0,
       "2022-06-02": 256
     }
   },
