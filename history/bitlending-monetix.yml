@@ -1,7 +1,7 @@
 url: https://api.bitlending.monetix.io/health
-status: down
-code: 502
-responseTime: 664
-lastUpdated: 2022-07-10T08:46:06.422Z
+status: up
+code: 200
+responseTime: 994
+lastUpdated: 2022-07-10T09:28:19.836Z
 startTime: Mon Jan 31 2022 14:57:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
