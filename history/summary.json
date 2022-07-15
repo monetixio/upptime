@@ -42,7 +42,7 @@
     "slug": "bitlending-monetix",
     "status": "up",
     "uptime": "97.56%",
-    "uptimeDay": "27.37%",
+    "uptimeDay": "28.47%",
     "uptimeWeek": "42.55%",
     "uptimeMonth": "86.78%",
     "uptimeYear": "97.56%",
@@ -70,7 +70,7 @@
     "status": "up",
     "uptime": "95.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.05%",
+    "uptimeWeek": "58.21%",
     "uptimeMonth": "78.08%",
     "uptimeYear": "95.79%",
     "time": 570,
@@ -104,7 +104,7 @@
     "uptime": "94.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.56%",
+    "uptimeMonth": "60.52%",
     "uptimeYear": "94.82%",
     "time": 568,
     "timeDay": 0,
@@ -112,7 +112,7 @@
     "timeMonth": 564,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-07-15": 627,
+      "2022-07-15": 643,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -132,15 +132,15 @@
     "url": "https://api.bitlending-staging.monetix.io/health",
     "icon": "https://favicons.githubusercontent.com/api.bitlending-staging.monetix.io",
     "slug": "bitlending-staging-monetix",
-    "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "37.38%",
-    "uptimeWeek": "46.44%",
-    "uptimeMonth": "87.67%",
-    "uptimeYear": "97.73%",
+    "status": "down",
+    "uptime": "97.75%",
+    "uptimeDay": "37.39%",
+    "uptimeWeek": "47.13%",
+    "uptimeMonth": "87.83%",
+    "uptimeYear": "97.75%",
     "time": 844,
-    "timeDay": 921,
-    "timeWeek": 914,
+    "timeDay": 923,
+    "timeWeek": 913,
     "timeMonth": 914,
     "timeYear": 844,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
       "2022-07-11": 933,
       "2022-07-10": 687,
       "2022-07-09": 1020,
-      "2022-07-08": 227
+      "2022-07-08": 157
     }
   }
 ]
