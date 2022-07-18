@@ -7,14 +7,10 @@ sites:
     url: https://api.finance.monetix.io/health
   - name: Dastafilez Monetix
     url: https://api.room.monetix.io/health
-  - name: Bitlending Monetix
-    url: https://api.bitlending.monetix.io/health
   - name: Finance Staging Monetix
     url: https://api.finance-staging.monetix.io/health
   - name: Dastafilez Staging Monetix
     url: https://api.room-staging.monetix.io/health
-  - name: Bitlending Staging Monetix
-    url: https://api.bitlending-staging.monetix.io/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
