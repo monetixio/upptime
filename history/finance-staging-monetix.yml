@@ -1,7 +1,7 @@
 url: https://api.finance-staging.monetix.io/health
 status: up
 code: 200
-responseTime: 638
-lastUpdated: 2022-12-06T23:19:55.163Z
+responseTime: 429
+lastUpdated: 2022-12-07T23:18:40.609Z
 startTime: Thu Nov 25 2021 20:06:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
