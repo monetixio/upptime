@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 613,
-    "timeDay": 418,
-    "timeWeek": 619,
-    "timeMonth": 795,
-    "timeYear": 606,
+    "timeDay": 601,
+    "timeWeek": 615,
+    "timeMonth": 791,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2022-10-31": 67
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 593,
-    "timeDay": 406,
-    "timeWeek": 630,
-    "timeMonth": 610,
-    "timeYear": 589,
+    "timeDay": 563,
+    "timeWeek": 613,
+    "timeMonth": 605,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2022-10-31": 67
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.31%",
     "time": 573,
-    "timeDay": 439,
-    "timeWeek": 595,
-    "timeMonth": 587,
+    "timeDay": 646,
+    "timeWeek": 598,
+    "timeMonth": 585,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2022-10-31": 66,
@@ -79,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.room-staging.monetix.io.ico",
     "slug": "dastafilez-staging-monetix",
     "status": "up",
-    "uptime": "80.07%",
+    "uptime": "80.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "79.02%",
     "time": 569,
-    "timeDay": 410,
-    "timeWeek": 588,
-    "timeMonth": 587,
+    "timeDay": 583,
+    "timeWeek": 579,
+    "timeMonth": 585,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2022-10-31": 66,
