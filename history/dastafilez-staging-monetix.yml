@@ -1,7 +1,7 @@
 url: https://api.room-staging.monetix.io/health
 status: up
 code: 200
-responseTime: 454
-lastUpdated: 2023-03-17T23:17:53.519Z
+responseTime: 500
+lastUpdated: 2023-03-18T23:17:32.735Z
 startTime: Thu Nov 25 2021 20:06:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
