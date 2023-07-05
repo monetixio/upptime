@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 608,
-    "timeDay": 628,
-    "timeWeek": 570,
-    "timeMonth": 605,
-    "timeYear": 613,
+    "time": 607,
+    "timeDay": 557,
+    "timeWeek": 604,
+    "timeMonth": 601,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2023-05-26": 35,
       "2023-03-05": 146,
@@ -41,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 596,
-    "timeDay": 694,
-    "timeWeek": 604,
-    "timeMonth": 610,
+    "timeDay": 566,
+    "timeWeek": 623,
+    "timeMonth": 606,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2023-05-26": 34,
@@ -61,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
-    "time": 660,
-    "timeDay": 607,
-    "timeWeek": 1693,
-    "timeMonth": 914,
-    "timeYear": 702,
+    "time": 659,
+    "timeDay": 443,
+    "timeWeek": 1688,
+    "timeMonth": 906,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2023-05-26": 34,
       "2023-03-12": 104,
@@ -90,8 +90,7 @@
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
-      "2022-07-06": 1440,
-      "2022-07-05": 1093
+      "2022-07-06": 1440
     }
   },
   {
@@ -100,15 +99,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.room-staging.monetix.io.ico",
     "slug": "dastafilez-staging-monetix",
     "status": "up",
-    "uptime": "71.22%",
+    "uptime": "71.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "54.01%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "54.29%",
     "time": 552,
-    "timeDay": 784,
-    "timeWeek": 574,
-    "timeMonth": 579,
+    "timeDay": 596,
+    "timeWeek": 592,
+    "timeMonth": 574,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2023-06-04": 31,
@@ -281,8 +280,7 @@
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
-      "2022-07-06": 1440,
-      "2022-07-05": 1440
+      "2022-07-06": 1440
     }
   }
 ]
